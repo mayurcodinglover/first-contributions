@@ -5,6 +5,7 @@
 - [yule153604](https://github.com/yule153604)
 - [thatwonguy](https://github.com/thatwonguy)
 - [Praveen Sahu](https://github.com/praveen7512)
+- [Mayur Hedau]([https://github.com/](https://github.com/mayurcodinglover))
 - [Luke Olende](https://github.com/LukeOlende)
 - [Ruan S.](https://github.com/ruun)
 - [narkis9984](https://github.com/narkis9984)
